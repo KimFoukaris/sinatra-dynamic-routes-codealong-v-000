@@ -21,11 +21,6 @@ class App < Sinatra::Base
   get '/multiply/:num1/:num2' do
     sum = :num1 + :num2
   end
-  
-  end
-    
-  end
-
   # Code your final two routes here:
 
 end
